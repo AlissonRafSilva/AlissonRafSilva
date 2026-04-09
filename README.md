@@ -27,11 +27,11 @@
 
 🚀 Sobre mim
 
-🔹 Experiência com Java e Spring Boot
-🔹 Desenvolvimento de APIs REST
-🔹 Integração com banco de dados
-🔹 Conhecimentos em Front-end
-🔹 Foco em boas práticas e organização de código
+🔹 Experiência com Java e Spring Boot</a>
+🔹 Desenvolvimento de APIs REST</a>
+🔹 Integração com banco de dados</a>
+🔹 Conhecimentos em Front-end</a>
+🔹 Foco em boas práticas e organização de código</a>
 
 Tenho desenvolvido projetos práticos com o objetivo de aplicar conceitos reais de desenvolvimento, fortalecer minha base técnica e evoluir constantemente como desenvolvedor.
 
