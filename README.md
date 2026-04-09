@@ -26,6 +26,7 @@
 💻 Desenvolvedor Fullstack em início de carreira, com foco em Back-end, apaixonado por tecnologia e construção de soluções práticas.
 
 🚀 Sobre mim
+
 🔹 Experiência com Java e Spring Boot
 🔹 Desenvolvimento de APIs REST
 🔹 Integração com banco de dados
@@ -35,12 +36,14 @@
 Tenho desenvolvido projetos práticos com o objetivo de aplicar conceitos reais de desenvolvimento, fortalecer minha base técnica e evoluir constantemente como desenvolvedor.
 
 🛠️ Tecnologias e Ferramentas
+
 Java
 Spring Boot
 Git & GitHub
 Banco de Dados (MySQL / PostgreSQL)
 APIs REST
 HTML, CSS, JavaScript (básico/intermediário)
+
 📌 Projetos em destaque
 
 Aqui você encontrará projetos que demonstram minha evolução como desenvolvedor, incluindo:
@@ -49,6 +52,7 @@ Construção de APIs REST
 Estruturação de aplicações em camadas (MVC)
 Integração com banco de dados
 Aplicação de boas práticas de desenvolvimento
+
 📫 Contato
 LinkedIn: https://www.linkedin.com/in/alissonrafsilva/
 Email: alissonrafsilva@gmail.com
