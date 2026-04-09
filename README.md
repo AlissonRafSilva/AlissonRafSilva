@@ -52,6 +52,7 @@ Aplicação de boas práticas de desenvolvimento
 📫 Contato
 LinkedIn: https://www.linkedin.com/in/alissonrafsilva/
 Email: alissonrafsilva@gmail.com
+
 🎯 Objetivo
 
 Busco minha primeira oportunidade como Desenvolvedor Fullstack Júnior (com foco em Back-end), estando também aberto a oportunidades em Service Desk como porta de entrada no mercado.
