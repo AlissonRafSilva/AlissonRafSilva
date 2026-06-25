@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Alisson Silva" width="100%">
+</p>
+
+
 # 👋 Olá, eu sou o Alisson Silva
 
 🎯 Desenvolvedor Full Stack Júnior em formação, com foco em Back-end, APIs REST e soluções práticas.
